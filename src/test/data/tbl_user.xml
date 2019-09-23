@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <TBL_USER userid='1' nama='Vinod' email='Kashyap' password='TEST'/>
+
+    <TBL_USER  userid='2' nama='Dhwani' email='Kashyap' password='TEST'/>
+
+    <TBL_USER  userid='3' nama='Asmi' email='Kashyap' password='TEST'/>
+</dataset>

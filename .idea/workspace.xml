@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f0107ea-1a86-4c09-898e-d6cb7821a024" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jdlservice/accountservice/service/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jdlservice/accountservice/service/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jdlservice/accountservice/util/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jdlservice/accountservice/util/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/messages/label_in.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages/label_in.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Qtyyvz24cvHZXSQ9cde3GDECpT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jdlservice.accountservice" />
+      <recent name="com.jdlservice.accountservice.entity.account" />
+      <recent name="com.jdlservice.accountservice.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\account-service\src\main\resources" />
+      <recent name="D:\project\account-service" />
+      <recent name="D:\project\accountservice\src\test\java\com\jdlservice\accountservice" />
+      <recent name="D:\project\accountservice\src\main\java\com\jdlservice\accountservice" />
+      <recent name="D:\project\accountservice\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AccountserviceApplication">
+    <configuration name="UserMockitoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="accountservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdlservice.accountservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdlservice.accountservice" />
+      <option name="MAIN_CLASS_NAME" value="com.jdlservice.accountservice.UserMockitoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMockitoTest.updatePassFailedCauseByPasswordEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="accountservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdlservice.accountservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdlservice.accountservice" />
+      <option name="MAIN_CLASS_NAME" value="com.jdlservice.accountservice.UserMockitoTest" />
+      <option name="METHOD_NAME" value="updatePassFailedCauseByPasswordEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMockitoTest.updatePassFailedCauseByPasswordNotEncrypted" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="accountservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdlservice.accountservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdlservice.accountservice" />
+      <option name="MAIN_CLASS_NAME" value="com.jdlservice.accountservice.UserMockitoTest" />
+      <option name="METHOD_NAME" value="updatePassFailedCauseByPasswordNotEncrypted" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMockitoTest.updatePassFailedCauseByPasswordNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="accountservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdlservice.accountservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdlservice.accountservice" />
+      <option name="MAIN_CLASS_NAME" value="com.jdlservice.accountservice.UserMockitoTest" />
+      <option name="METHOD_NAME" value="updatePassFailedCauseByPasswordNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMockitoTest.updatePassFailedCauseByPasswordempty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="accountservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdlservice.accountservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdlservice.accountservice" />
+      <option name="MAIN_CLASS_NAME" value="com.jdlservice.accountservice.UserMockitoTest" />
+      <option name="METHOD_NAME" value="updatePassFailedCauseByPasswordempty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="accountservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jdlservice.accountservice.AccountserviceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMockitoTest" />
+        <item itemvalue="JUnit.UserMockitoTest.updatePassFailedCauseByPasswordNotEncrypted" />
+        <item itemvalue="JUnit.UserMockitoTest.updatePassFailedCauseByPasswordNull" />
+        <item itemvalue="JUnit.UserMockitoTest.updatePassFailedCauseByPasswordEmpty" />
+        <item itemvalue="JUnit.UserMockitoTest.updatePassFailedCauseByPasswordempty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f0107ea-1a86-4c09-898e-d6cb7821a024" name="Default Changelist" comment="" />
+      <created>1568604444108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568604444108</updated>
+      <workItem from="1568604446753" duration="7121000" />
+      <workItem from="1568618656583" duration="20756000" />
+      <workItem from="1568886803659" duration="8000" />
+      <workItem from="1568953238302" duration="10785000" />
+      <workItem from="1569205708654" duration="11113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
